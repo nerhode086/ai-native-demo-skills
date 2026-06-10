@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA 用例生成"
+  short_description: "前置生成游戏测试用例数据需求回归范围与清单"
+  default_prompt: "使用 $qa-testcase 为这条游戏功能需求生成 QA 测试用例和联调 checklist。"

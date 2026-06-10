@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用组件匹配"
+  short_description: "识别游戏需求可复用组件并避免一次性硬编码"
+  default_prompt: "使用 $generic-component-matching 分析接收的游戏需求应复用哪些通用组件。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求预评审"
+  short_description: "在实现前识别游戏需求边界风险与澄清问题"
+  default_prompt: "使用 $requirement-pre-review 预评审这条原始游戏策划需求，并输出 Markdown。"

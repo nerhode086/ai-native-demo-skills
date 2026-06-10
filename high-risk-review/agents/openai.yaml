@@ -1,0 +1,4 @@
+interface:
+  display_name: "高风险 Review"
+  short_description: "识别资产支付结算奖励排行合服等人工 Review 门禁"
+  default_prompt: "使用 $high-risk-review 检查这条游戏需求是否涉及高风险链路。"

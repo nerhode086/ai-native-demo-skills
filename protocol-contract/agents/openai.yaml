@@ -1,0 +1,4 @@
+interface:
+  display_name: "协议契约"
+  short_description: "前置定义双端协议字段错误码状态与 Mock 规格"
+  default_prompt: "使用 $protocol-contract 为这条游戏功能需求生成双端协议契约。"

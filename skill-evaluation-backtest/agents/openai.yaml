@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 回测评估"
+  short_description: "用历史 golden cases 评估游戏研发 skill 输出质量"
+  default_prompt: "使用 $skill-evaluation-backtest 对这个 skill 输出进行历史 case 回测评估。"
